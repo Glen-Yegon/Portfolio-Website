@@ -1,0 +1,104 @@
+header {
+    background-color: dimgray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    color: antiquewhite;
+    text-align: center;
+    border-style: dotted;
+    border-color: black;
+    border-width: j0.1cm;
+    padding: 0.3cm;
+    margin: 0cm;
+}
+body {
+    background-image: url(images/portfolio4.jpg);
+    background-position: center;
+}
+
+.p {
+    font-size: medium;
+    font-weight: 500;
+    text-size-adjust: 35px;
+    color: aliceblue;
+}
+
+nav {
+    color: none;
+    height: 2cm;
+    padding: 0%;
+}
+
+.first {
+    display: flex;
+    list-style: none;
+    margin: 0px;
+    padding: 0px; 
+    color: aquamarine;  
+    list-style: none;
+    color: antiquewhite;
+}
+
+#list {
+    margin-right: 20px;
+    padding: 0;
+    justify-content: flex-start;
+    margin-left: 0;
+    list-style: none;
+}
+
+p {
+    color: antiquewhite;
+}
+
+#home {
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+#about {
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+#contacts {
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+#projects {
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+#li {
+    color: antiquewhite;
+    font-style: italic;
+}
+
+footer {
+    height: 70px;
+    background-color: black;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 0;
+}
+
+nav a{
+    text-decoration: none;
+    color: aqua;
+    border-style: dotted;
+    border-color: black;
+}
+
+.ppp {
+    color: aquamarine;
+}
+.pp{
+    color: aquamarine;
+}
